@@ -1,0 +1,5 @@
+table=> collection
+one row data=>document
+column name=> field
+mongodb=> noSQL
+binary object notification=>object id and date add hunca object ma...(Bson)
